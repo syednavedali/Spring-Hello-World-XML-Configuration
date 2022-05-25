@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <spring.version>5.1.9.RELEASE</spring.version> <!-- Declaring version here 
+    <spring.version>5.2.22.RELEASE</spring.version> <!-- Declaring version here 
                                                         so that we can reference it  
                                                         later using ${spring.version} expression-->
   </properties>
